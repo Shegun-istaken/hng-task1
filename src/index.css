@@ -91,7 +91,7 @@ div.socials{
 footer{
   display: flex;
   justify-content: space-between;
-  align-items: start;
+  align-items: flex-start;
   width: 100%;
 }
 
